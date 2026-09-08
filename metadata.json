@@ -1,0 +1,8 @@
+{
+  "name": "Aplikasi BKU & Kwitansi SMK Musanga",
+  "description": "Aplikasi pembukuan BKU, Bukti Kas A2, dan cetak Kwitansi dengan ekspor-impor Excel serta fungsi terbilang otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
